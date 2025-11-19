@@ -1,0 +1,14 @@
+
+.C {
+    display: flex;
+    flex-flow: column;
+}
+
+.B {
+    background-color: green;
+    color: aqua;
+    padding: 2.5%;
+    display: flex;
+    flex-flow: column;
+    align-content: end;
+}
